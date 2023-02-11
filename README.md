@@ -1,2 +1,2 @@
-# Resoluções em JAVA para problemas do leetcode.com
+# Resoluções em JAVA para problemas do [LeetCode](https://leetcode.com)
 
